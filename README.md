@@ -13,15 +13,6 @@ The immune system detects the abnormal cells and prevents the growth of many can
 Immune checkpoints are a normal part of the immune system. This plays an important role in the immune response against pathogenic infection and in maintaining self-tolerance to minimize tissue damage [3]. In cancer, these checkpoints can be manipulated by tumors to inhibit anti-tumor immunity [3]. We will discuss the role of immune checkpoints in cancer, the development of immune checkpoint inhibitors as a therapeutic strategy, and their impact on cancer treatment.
 
 
-
-## The Role of Immune Checkpoints
-
-Immune checkpoints are molecules expressed on immune cells, such as T cells. The checkpoints include the CTLA-4 (Cytotoxic T-lymphocyte-associated protein 4), is expressed on T cells and competes with co-stimulatory molecule CD28 for binding to B7 on antigen-presenting cells (APCs) and delivering an inhibitory signal that reduces T cell activity [4]. In addition,according to  He  & Xu (2020), PD-1 (Programmed cell death protein 1) is another inhibitory receptor found on T cells and  it suppresses T cell activation and proliferation, when it binds to its ligands, PD-L1 or PD-L2, on APCs or tumor cells , as a result reducing the immune response against the tumor. 
-
-## The Role of Immune Checkpoints
-
-Immune checkpoints are molecules expressed on immune cells, such as T cells. The checkpoints include the CTLA-4 (Cytotoxic T-lymphocyte-associated protein 4), is expressed on T cells and competes with co-stimulatory molecule CD28 for binding to B7 on antigen-presenting cells (APCs) and delivering an inhibitory signal that reduces T cell activity [4]. In addition,according to  He  & Xu (2020), PD-1 (Programmed cell death protein 1) is another inhibitory receptor found on T cells and  it suppresses T cell activation and proliferation, when it binds to its ligands, PD-L1 or PD-L2, on APCs or tumor cells , as a result reducing the immune response against the tumor. 
-
 ## The Role of Immune Checkpoints
 
 Immune checkpoints are molecules expressed on immune cells, such as T cells. The checkpoints include the CTLA-4 (Cytotoxic T-lymphocyte-associated protein 4), is expressed on T cells and competes with co-stimulatory molecule CD28 for binding to B7 on antigen-presenting cells (APCs) and delivering an inhibitory signal that reduces T cell activity [4]. In addition,according to  He  & Xu (2020), PD-1 (Programmed cell death protein 1) is another inhibitory receptor found on T cells and  it suppresses T cell activation and proliferation, when it binds to its ligands, PD-L1 or PD-L2, on APCs or tumor cells , as a result reducing the immune response against the tumor. 
