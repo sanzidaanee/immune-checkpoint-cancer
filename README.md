@@ -17,6 +17,17 @@ Immune checkpoints are a normal part of the immune system. This plays an importa
 
 Immune checkpoints are molecules expressed on immune cells, such as T cells. The checkpoints include the CTLA-4 (Cytotoxic T-lymphocyte-associated protein 4), is expressed on T cells and competes with co-stimulatory molecule CD28 for binding to B7 on antigen-presenting cells (APCs) and delivering an inhibitory signal that reduces T cell activity [4]. In addition,according to  He  & Xu (2020), PD-1 (Programmed cell death protein 1) is another inhibitory receptor found on T cells and  it suppresses T cell activation and proliferation, when it binds to its ligands, PD-L1 or PD-L2, on APCs or tumor cells , as a result reducing the immune response against the tumor. 
 
+
+![nci-vol-10396-150](https://github.com/user-attachments/assets/edbd0f79-2200-4e6b-bbb8-43dd9cb37a46)
+
+
+
+Figure: Checkpoint proteins, such as PD-L1 on tumor cells and PD-1 on T cells, help keep immune responses in check. The binding of PD-L1 to PD-1 keeps T cells from killing tumor cells in the body (left side). Blocking the binding of PD-L1 to PD-1 with an immune checkpoint inhibitor (anti-PD-L1 or anti-PD-1) allows the T cells to kill tumor cells (right side).
+Credit: © Terese Winslow, Source:(https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/checkpoint-inhibitors)
+
+
+
+
 ## Immune Checkpoint Inhibitors: A Breakthrough in Cancer Therapy
 
 When proteins recognize the surface of immune cells such as T cells and bind to other proteins or cancer cells are called immune checkpoint proteins that bind together and send signals to the T cells [5]. In this way, it can prevent the immune system from destroying cancer cells. Immune checkpoint inhibitors, an immunotherapy drug that blocks the immune checkpoint proteins from binding with other partner proteins by preventing the signal sent and allowing the T cells to kill cancer cells [5]. So, immune checkpoint inhibitors have revolutionized cancer therapy by blocking checkpoints, and the immune system is reactivated by recognizing and destroying cancer cells more effectively [6]. 
